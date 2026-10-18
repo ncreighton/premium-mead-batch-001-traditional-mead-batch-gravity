@@ -1,0 +1,2 @@
+# premium-mead-batch-001-traditional-mead-batch-gravity
+Tired of guessing when your mead is ready or losing track of gravity readings across multiple batches? Your traditional mead deserves a dedicated log that respects the craft.  This Notion template transforms chaotic brew notes into a structured, searchable archive. With built-in gravity trend tracking and ferment stage checklists, you'll never miss
